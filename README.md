@@ -5,6 +5,12 @@ An hackerrank Vue.js Challange
 A simple hypothetical Store/Shop implementation in vue. Implementation maybe simple, but
 encompasses many use cases of a real world Store application.
 
+## Technologies
+
+- Basic web technologies such as HTML5, CSS3, Bootstrap
+- Vue.js For the frontend
+- Netlify hosting for frontend
+
 ## Features
 
 - A list of Store items/products with name and price tags are already presented.In a normal application, these items will come from a backend.
